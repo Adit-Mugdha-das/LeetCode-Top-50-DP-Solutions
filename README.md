@@ -36,7 +36,7 @@ Each solution is clean, optimized, and structured for easy understanding and rev
 
 ---
 
-## 🛠 Language
+##  Language
 
 All solutions are written in **Python 3**, with comments and clear logic where needed.
 
