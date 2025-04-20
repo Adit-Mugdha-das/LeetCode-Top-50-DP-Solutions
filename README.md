@@ -15,15 +15,17 @@ Each solution is clean, optimized, and structured for easy understanding and rev
 
 ---
 
-##  Topics Covered
+## Topics Covered
 
-- Fibonacci Style  
-- 0/1 Knapsack  
-- Grid DP  
-- Matrix DP  
-- Subsequence Based  
-- Decision Making  
-- Top-Down & Bottom-Up Techniques  
+- Fibonacci Style
+- Matrix DP
+- On Strings
+- Longest Increasing Subsequence
+- Longest Common Subsequence
+- Best Time to Buy & Sell Stock / State Machine
+- On Trees
+- Knapsack (0/1)
+- General 1D DP 
 
 ---
 
